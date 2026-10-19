@@ -1,0 +1,11 @@
+/* src/global.css */
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
